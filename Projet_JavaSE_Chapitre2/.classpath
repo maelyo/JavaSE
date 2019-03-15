@@ -9,5 +9,6 @@
 	<classpathentry kind="src" path="2.les variables"/>
 	<classpathentry kind="src" path="3.les constantes"/>
 	<classpathentry kind="src" path="4.les énumerations"/>
+	<classpathentry kind="src" path="5.les arguments"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
