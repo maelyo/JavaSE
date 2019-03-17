@@ -10,6 +10,8 @@
 	<classpathentry kind="src" path="3.les constantes"/>
 	<classpathentry kind="src" path="4.les énumerations"/>
 	<classpathentry kind="src" path="5.les arguments"/>
-	<classpathentry kind="src" path="6.les opérateurs"/>
+	<classpathentry kind="src" path="7.les opérateurs"/>
+	<classpathentry kind="src" path="8.les structures de controle"/>
+	<classpathentry kind="src" path="6.Les saisies sur la console"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
