@@ -4,11 +4,13 @@ import java.io.InputStreamReader;
 
 public class LeSwitch {
 
+	//La gestion des exceptions sera mieux gérée dans le prochaine chapitre
 	public static void main(String[] args) throws IOException {
 		System.out.println("Répondez oui, non ou n'importe quoi:");
-		BufferedReader br; 
-		br=new BufferedReader(new InputStreamReader(System.in)); 
+		//L'instruction suivante permet d'accéder aux saisie de l'utilisateur sur la console
+		BufferedReader br=new BufferedReader(new InputStreamReader(System.in)); 
 		String reponse=""; 
+		//L'instruction suivante permet de lire la saisie de l'utilisateur jusqu'à l'appuie sur la touche Entrée
 		reponse=br.readLine(); 
 		switch (reponse) 
 		{ 
