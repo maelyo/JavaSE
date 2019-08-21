@@ -18,7 +18,7 @@ public class TestStatementGetMoreResults {
 				Statement stm = cnx.createStatement(ResultSet.TYPE_SCROLL_SENSITIVE, ResultSet.CONCUR_READ_ONLY)) {
 
 			BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-			System.out.println("saisir vos instruction SQL séparées par ; :");
+			System.out.println("saisir vos instructions SQL séparées par ; :");
 			String requete = br.readLine();
 			resultat = stm.execute(requete);
 			int i = 1;
