@@ -21,7 +21,7 @@ public class TestTypeResultSet {
 			String nom = br.readLine();
 			// Appliquer les paramètres
 			pstm.setString(1, nom);
-			// Exécuter la requête et obtenir le résultat
+			// Ex�cuter la requête et obtenir le résultat
 			ResultSet rs = pstm.executeQuery();
 			afficherTypeResultSet(rs);
 			// Tant qu'il y a des enregistrements
