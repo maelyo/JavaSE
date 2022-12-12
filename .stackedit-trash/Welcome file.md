@@ -1,4 +1,7 @@
+
 # Welcome to StackEditPro!
+$\usepackage{imakeidx}
+$\makeindex
 
 Hi! I'm your first Markdown file in **StackEditPro**. If you want to learn about StackEditPro, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
@@ -7,7 +10,7 @@ Hi! I'm your first Markdown file in **StackEditPro**. If you want to learn about
 # About StackEditPro
 StackEditPro (https://stackeditpro.io) is a fork of StackEdit (https://stackedit.io) that offers an extremely agile development cycle along with cutting-edge features.
 If you currently use the original application, you can sync to your data sources and use both web applications with your current workspaces.
-You can also export \index{your} workspaces from one and then import them into the other.
+You can also export $\index{your} workspaces from one and then import them into the other.
 
 > Blockquote
 
@@ -149,7 +152,9 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
+
+$\printindex
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMjY4MDE5MCwtMTQ4NDA2MDczNCwtMT
+eyJoaXN0b3J5IjpbMTc1OTQ1NTkzNCwtMTQ4NDA2MDczNCwtMT
 cyMzI4MzkxMV19
 -->
