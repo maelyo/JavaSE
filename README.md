@@ -3,7 +3,7 @@ Dépôt présentant les fonctionnalités du langage Java et de la plateforme Jav
 
 [Chapitre 1](https://github.com/maelyo/JavaSE/tree/master/Projet_JavaSE_Chapitre1 "Projet Java Minimaliste avec Eclipse")
 
-Bonjour c’est un essai $$\index{avec} StackEditPro...
+Bonjour c’est un essai $\index{avec} StackEditPro...
 
 **Note:** Ceci est [une](une,deux) note.
 The Gamma function satisfying $\Gamma(n) = (n-1)!\quad\forall
@@ -14,8 +14,8 @@ N0YXJ0IjoyMTYsImVuZCI6MjI3LCJ0ZXh0IjoibmpvdXIgY+KA
 mWVzdCJ9fSwiY29tbWVudHMiOnsiaXVMTWdaVTNZUUFlaEVSVC
 I6eyJkaXNjdXNzaW9uSWQiOiJQaWt2Q1FveE9ZaFVBZFloIiwi
 c3ViIjoiZ2g6NDcxNDgxMTAiLCJ0ZXh0IjoidnZ2diIsImNyZW
-F0ZWQiOjE2NzA4Mzk0NjM2MTZ9fSwiaGlzdG9yeSI6Wy00Njky
-NzQ1NzYsLTE0MjU5MDc4NzYsMTE5ODMyNDA4OSwtMTMyMjY5Nj
+F0ZWQiOjE2NzA4Mzk0NjM2MTZ9fSwiaGlzdG9yeSI6Wy00MTgz
+MjI4NDIsLTE0MjU5MDc4NzYsMTE5ODMyNDA4OSwtMTMyMjY5Nj
 gyMSwtMjAzMjU0MDUxNSwtNjQwMDA2NTc5LDQzMDUxNTAyNiwx
 MDAxNTU1ODQ2LDYzMDU3MDYwM119
 -->
