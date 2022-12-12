@@ -3,7 +3,7 @@
 $\usepackage{imakeidx}
 $\makeindex
 
-Hi! I'm your first Markdown file in **StackEditPro**. If you want to learn about StackEditPro, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+Hi! I'm your first `Markdown` file in **StackEditPro**. If you want to learn about StackEditPro, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
     dsfsd
 
@@ -155,6 +155,6 @@ C --> D
 
 $\printindex
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1OTQ1NTkzNCwtMTQ4NDA2MDczNCwtMT
-cyMzI4MzkxMV19
+eyJoaXN0b3J5IjpbNjQwMzg2ODgwLDE3NTk0NTU5MzQsLTE0OD
+QwNjA3MzQsLTE3MjMyODM5MTFdfQ==
 -->
