@@ -7,7 +7,7 @@ Hi! I'm your first Markdown file in **StackEditPro**. If you want to learn about
 # About StackEditPro
 StackEditPro (https://stackeditpro.io) is a fork of StackEdit (https://stackedit.io) that offers an extremely agile development cycle along with cutting-edge features.
 If you currently use the original application, you can sync to your data sources and use both web applications with your current workspaces.
-You can also export your workspaces from one and then import them into the other.
+You can also export \index{your} workspaces from one and then import them into the other.
 
 > Blockquote
 
@@ -150,6 +150,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODQwNjA3MzQsLTE3MjMyODM5MTFdfQ
-==
+eyJoaXN0b3J5IjpbMTQzMjY4MDE5MCwtMTQ4NDA2MDczNCwtMT
+cyMzI4MzkxMV19
 -->
