@@ -3976,3 +3976,6 @@ il faudra passer des heures à découvrir les fonctionnalités offertes par
 l'API Java. Rapidement, vous allez avoir besoin de connaître les bases
 de la programmation objet pour approfondir vos connaissances. C'est
 l'objectif du prochain chapitre.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTI2MjU2MDc2Ml19
+-->
