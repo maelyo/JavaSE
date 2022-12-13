@@ -139,7 +139,7 @@ suite.
 ![toto](https://github.com/maelyo/JavaSE/blob/master/Images/02RI01.png)
 <img src="images/02RI01.png" style="width:3.588in;height:1.761in" />
 
-La variable nommée `variableTypeValeur` est associée à un espace
+La variable nommée `variableTypeValeur` est associéer à un espace
 mémoire contenant directement la valeur. Dans l'exemple, la valeur est
 un numérique entier (`10`).
 
@@ -3989,7 +3989,7 @@ piJ9fSwiY29tbWVudHMiOnsiR0QwOWsxSW1HY0dBTTJPeCI6ey
 JkaXNjdXNzaW9uSWQiOiJxRDJCbXpvb0NmbHVOczNEIiwic3Vi
 IjoiZ2g6NDcxNDgxMTAiLCJ0ZXh0IjoiUXUnZW4gcGVuc2V6LX
 ZvdXMgamUgbmUgc3VpcyBwYXMgdHLDqHMgY2xhaXIiLCJjcmVh
-dGVkIjoxNjcwOTM3NDA2NDk0fX0sImhpc3RvcnkiOlsxNTk5ND
-I3NjcsMTAwMDE1NjAxNiw3MTc0MTYyNTcsMTI2MjU2MDc2Ml19
-
+dGVkIjoxNjcwOTM3NDA2NDk0fX0sImhpc3RvcnkiOls4MzQxMD
+Y2NDcsMTU5OTQyNzY3LDEwMDAxNTYwMTYsNzE3NDE2MjU3LDEy
+NjI1NjA3NjJdfQ==
 -->
