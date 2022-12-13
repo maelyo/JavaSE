@@ -132,7 +132,7 @@ Le schéma suivant résume ce concept. Il représente la mémoire d’une
 application et les variables qu’elle utilise. Il est important de
 maîtriser ce concept, car cela a des impacts que l’on étudiera par la
 suite.
-
+![enter image description here](https://github.com/maelyo/JavaSE/blob/master/Images/02RI01.png)
 <img src="images/02RI01.png" style="width:3.588in;height:1.761in" />
 
 La variable nommée `variableTypeValeur` est associée à un espace
@@ -3977,5 +3977,5 @@ l'API Java. Rapidement, vous allez avoir besoin de connaître les bases
 de la programmation objet pour approfondir vos connaissances. C'est
 l'objectif du prochain chapitre.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1NTIzOTYyLDEyNjI1NjA3NjJdfQ==
+eyJoaXN0b3J5IjpbNzE3NDE2MjU3LDEyNjI1NjA3NjJdfQ==
 -->
