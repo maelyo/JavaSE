@@ -41,7 +41,9 @@ Tous les exemples de ce chapitre respecteront cette organisation.
 
 ## Les variables
 
-=== Introduction
+=== 
+
+# Introduction
 
 Les variables permettent de mémoriser pendant l'exécution d’une
 application différentes valeurs utiles à son bon fonctionnement. Avant
@@ -3685,5 +3687,5 @@ l'API Java. Rapidement, vous allez avoir besoin de connaître les bases
 de la programmation objet pour approfondir vos connaissances. C'est
 l'objectif du prochain chapitre.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MzcxODMzOV19
+eyJoaXN0b3J5IjpbLTEyMjAxMTQ4Nl19
 -->
