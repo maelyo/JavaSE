@@ -6,7 +6,8 @@ Java
 
 On a coutume de dire que « Tout est objet en Java ». Cela signifie que
 pour écrire le moindre programme, il est nécessaire de créer au moins
-une classe dont la structure doit être la suivante :
+une classe dont la structure doit être la suivante.
+Voici la structure du `code` à réaliser:
 
     1    public class NomDeLaClasse 
     2    { 
@@ -17,6 +18,8 @@ une classe dont la structure doit être la suivante :
     7        } 
     8        //LE CODE DE VOTRE PROGRAMME 
     9    }
+
+> A ne pas oublier
 
 Pour plus d’informations sur la création d’une telle classe, veuillez
 vous référer au chapitre précédent au niveau de la section Premier
@@ -3977,5 +3980,14 @@ l'API Java. Rapidement, vous allez avoir besoin de connaître les bases
 de la programmation objet pour approfondir vos connaissances. C'est
 l'objectif du prochain chapitre.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE3NDE2MjU3LDEyNjI1NjA3NjJdfQ==
+eyJkaXNjdXNzaW9ucyI6eyJxRDJCbXpvb0NmbHVOczNEIjp7In
+N0YXJ0Ijo1MSwiZW5kIjoyNDMsInRleHQiOiJPbiBhIGNvdXR1
+bWUgZGUgZGlyZSBxdWUgwqsgVG91dCBlc3Qgb2JqZXQgZW4gSm
+F2YSDCuy4gQ2VsYSBzaWduaWZpZSBxdWVcbnBvdXIgw6ljcuKA
+piJ9fSwiY29tbWVudHMiOnsiR0QwOWsxSW1HY0dBTTJPeCI6ey
+JkaXNjdXNzaW9uSWQiOiJxRDJCbXpvb0NmbHVOczNEIiwic3Vi
+IjoiZ2g6NDcxNDgxMTAiLCJ0ZXh0IjoiUXUnZW4gcGVuc2V6LX
+ZvdXMgamUgbmUgc3VpcyBwYXMgdHLDqHMgY2xhaXIiLCJjcmVh
+dGVkIjoxNjcwOTM3NDA2NDk0fX0sImhpc3RvcnkiOlsxMDAwMT
+U2MDE2LDcxNzQxNjI1NywxMjYyNTYwNzYyXX0=
 -->
