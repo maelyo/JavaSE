@@ -135,7 +135,8 @@ Le schéma suivant résume ce concept. Il représente la mémoire d’une
 application et les variables qu’elle utilise. Il est important de
 maîtriser ce concept, car cela a des impacts que l’on étudiera par la
 suite.
-![enter image description here](https://github.com/maelyo/JavaSE/blob/master/Images/02RI01.png)
+
+![toto](https://github.com/maelyo/JavaSE/blob/master/Images/02RI01.png)
 <img src="images/02RI01.png" style="width:3.588in;height:1.761in" />
 
 La variable nommée `variableTypeValeur` est associée à un espace
@@ -3988,6 +3989,7 @@ piJ9fSwiY29tbWVudHMiOnsiR0QwOWsxSW1HY0dBTTJPeCI6ey
 JkaXNjdXNzaW9uSWQiOiJxRDJCbXpvb0NmbHVOczNEIiwic3Vi
 IjoiZ2g6NDcxNDgxMTAiLCJ0ZXh0IjoiUXUnZW4gcGVuc2V6LX
 ZvdXMgamUgbmUgc3VpcyBwYXMgdHLDqHMgY2xhaXIiLCJjcmVh
-dGVkIjoxNjcwOTM3NDA2NDk0fX0sImhpc3RvcnkiOlsxMDAwMT
-U2MDE2LDcxNzQxNjI1NywxMjYyNTYwNzYyXX0=
+dGVkIjoxNjcwOTM3NDA2NDk0fX0sImhpc3RvcnkiOlstNDQwNj
+YyNDU1LDEwMDAxNTYwMTYsNzE3NDE2MjU3LDEyNjI1NjA3NjJd
+fQ==
 -->
